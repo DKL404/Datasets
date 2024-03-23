@@ -1,0 +1,291 @@
+BusinessEntityID,OrganizationLevel,JobTitle,BirthDate,MaritalStatus,Gender,HireDate,SalariedFlag,CurrentFlag,PersonType,Department,GroupName,StartDate,Rate,PayFrequency
+1,0,Chief Executive Officer,29/01/1969,S,M,14/01/2009,1,1,EM,Executive,Executive General and Administration,14/01/2009,125.5,2
+2,1,Vice President of Engineering,01/08/1971,S,F,31/01/2008,1,1,EM,Engineering,Research and Development,31/01/2008,63.4615,2
+3,2,Engineering Manager,12/11/1974,M,M,11/11/2007,1,1,EM,Engineering,Research and Development,11/11/2007,43.2692,2
+4,3,Senior Tool Designer,23/12/1974,S,M,05/12/2007,0,1,EM,Tool Design,Research and Development,31/05/2010,29.8462,2
+5,3,Design Engineer,27/09/1952,M,F,06/01/2008,1,1,EM,Engineering,Research and Development,06/01/2008,32.6923,2
+6,3,Design Engineer,11/03/1959,M,M,24/01/2008,1,1,EM,Engineering,Research and Development,24/01/2008,32.6923,2
+7,3,Research and Development Manager,24/02/1987,M,M,08/02/2009,1,1,EM,Research and Development,Research and Development,08/02/2009,50.4808,2
+8,4,Research and Development Engineer,05/06/1986,S,F,29/12/2008,1,1,EM,Research and Development,Research and Development,29/12/2008,40.8654,2
+9,4,Research and Development Engineer,21/01/1979,M,F,16/01/2009,1,1,EM,Research and Development,Research and Development,16/01/2009,40.8654,2
+10,4,Research and Development Manager,30/11/1984,M,M,03/05/2009,1,1,EM,Research and Development,Research and Development,03/05/2009,42.4808,2
+11,3,Senior Tool Designer,17/01/1978,S,M,05/12/2010,0,1,EM,Tool Design,Research and Development,05/12/2010,28.8462,2
+12,4,Tool Designer,29/07/1959,M,M,11/12/2007,0,1,EM,Tool Design,Research and Development,11/12/2007,25,2
+13,4,Tool Designer,28/05/1989,M,F,23/12/2010,0,1,EM,Tool Design,Research and Development,23/12/2010,25,2
+14,3,Senior Design Engineer,16/06/1979,S,M,30/12/2010,1,1,EM,Engineering,Research and Development,30/12/2010,36.0577,2
+15,3,Design Engineer,02/05/1961,M,F,18/01/2011,1,1,EM,Engineering,Research and Development,18/01/2011,32.6923,2
+16,1,Marketing Manager,19/03/1975,S,M,20/12/2007,1,1,EM,Marketing,Sales and Marketing,15/07/2009,37.5,2
+17,2,Marketing Assistant,03/05/1987,S,M,26/01/2007,0,1,EM,Marketing,Sales and Marketing,26/01/2007,13.4615,2
+18,2,Marketing Specialist,06/03/1978,S,M,07/02/2011,0,1,EM,Marketing,Sales and Marketing,07/02/2011,14.4231,2
+19,2,Marketing Assistant,29/01/1978,S,F,14/02/2011,0,1,EM,Marketing,Sales and Marketing,14/02/2011,13.4615,2
+20,2,Marketing Assistant,17/03/1975,M,F,07/01/2011,0,1,EM,Marketing,Sales and Marketing,07/01/2011,13.4615,2
+21,2,Marketing Specialist,04/02/1986,M,M,02/03/2009,0,1,EM,Marketing,Sales and Marketing,02/03/2009,14.4231,2
+22,2,Marketing Specialist,21/05/1987,S,M,12/12/2008,0,1,EM,Marketing,Sales and Marketing,12/12/2008,14.4231,2
+23,2,Marketing Specialist,13/09/1962,M,F,12/01/2009,0,1,EM,Marketing,Sales and Marketing,12/01/2009,14.4231,2
+24,2,Marketing Specialist,18/06/1979,M,F,18/01/2009,0,1,EM,Marketing,Sales and Marketing,18/01/2009,14.4231,2
+25,1,Vice President of Production,07/01/1983,S,M,03/02/2009,1,1,EM,Production,Manufacturing,03/02/2009,84.1346,2
+26,2,Production Control Manager,03/11/1982,M,M,01/12/2008,1,1,EM,Production Control,Manufacturing,01/12/2008,24.5192,2
+27,3,Production Supervisor - WC60,08/10/1956,S,F,27/02/2008,0,1,EM,Production,Manufacturing,27/02/2008,25,2
+28,4,Production Technician - WC60,13/03/1988,M,M,30/06/2006,0,1,EM,Production,Manufacturing,30/06/2006,12.45,1
+29,4,Production Technician - WC60,25/09/1979,S,M,23/01/2009,0,1,EM,Production,Manufacturing,23/01/2009,12.45,1
+30,4,Production Technician - WC60,28/09/1989,M,F,29/01/2009,0,1,EM,Production,Manufacturing,29/01/2009,12.45,1
+31,4,Production Technician - WC60,20/05/1986,M,F,04/01/2009,0,1,EM,Production,Manufacturing,04/01/2009,12.45,1
+32,4,Production Technician - WC60,10/07/1977,M,F,29/12/2008,0,1,EM,Production,Manufacturing,29/12/2008,12.45,1
+33,4,Production Technician - WC60,26/12/1976,M,M,17/12/2008,0,1,EM,Production,Manufacturing,17/12/2008,12.45,1
+34,4,Production Technician - WC60,10/06/1987,M,F,16/02/2009,0,1,EM,Production,Manufacturing,16/02/2009,12.45,1
+35,4,Production Technician - WC60,10/01/1977,M,M,08/02/2009,0,1,EM,Production,Manufacturing,08/02/2009,12.45,1
+36,4,Production Technician - WC60,31/07/1984,M,M,10/02/2009,0,1,EM,Production,Manufacturing,10/02/2009,12.45,1
+37,4,Production Technician - WC60,07/08/1986,S,M,07/03/2009,0,1,EM,Production,Manufacturing,07/03/2009,12.45,1
+38,4,Production Technician - WC60,14/12/1966,M,F,16/01/2010,0,1,EM,Production,Manufacturing,16/01/2010,12.45,1
+39,4,Production Technician - WC60,11/09/1971,S,M,05/02/2010,0,1,EM,Production,Manufacturing,05/02/2010,12.45,1
+40,3,Production Supervisor - WC60,16/01/1956,S,F,26/12/2007,0,1,EM,Production,Manufacturing,26/12/2007,25,2
+41,4,Production Technician - WC60,27/08/1973,S,M,21/01/2009,0,1,EM,Production,Manufacturing,21/01/2009,12.45,1
+42,4,Production Technician - WC60,25/07/1984,M,M,27/12/2008,0,1,EM,Production,Manufacturing,27/12/2008,12.45,1
+43,4,Production Technician - WC60,19/11/1988,M,F,02/01/2009,0,1,EM,Production,Manufacturing,02/01/2009,12.45,1
+44,4,Production Technician - WC60,17/05/1990,S,M,08/12/2008,0,1,EM,Production,Manufacturing,08/12/2008,12.45,1
+45,4,Production Technician - WC60,10/01/1986,M,M,26/02/2009,0,1,EM,Production,Manufacturing,26/02/2009,12.45,1
+46,4,Production Technician - WC60,10/02/1976,S,M,08/02/2009,0,1,EM,Production,Manufacturing,08/02/2009,12.45,1
+47,3,Production Supervisor - WC10,06/09/1988,S,M,22/02/2009,0,1,EM,Production,Manufacturing,22/02/2009,25,2
+48,4,Production Technician - WC10,04/06/1956,M,F,06/01/2008,0,1,EM,Production,Manufacturing,06/01/2008,13.45,1
+49,4,Production Technician - WC10,26/03/1956,S,M,07/01/2008,0,1,EM,Production,Manufacturing,07/01/2008,13.45,1
+50,4,Production Technician - WC10,30/08/1956,M,M,02/02/2008,0,1,EM,Production,Manufacturing,02/02/2008,13.45,1
+51,4,Production Technician - WC10,11/07/1956,S,M,20/02/2008,0,1,EM,Production,Manufacturing,20/02/2008,13.45,1
+52,4,Production Technician - WC10,04/04/1956,M,F,10/03/2008,0,1,EM,Production,Manufacturing,10/03/2008,13.45,1
+53,4,Production Technician - WC10,29/03/1956,M,F,28/03/2008,0,1,EM,Production,Manufacturing,28/03/2008,13.45,1
+54,4,Production Technician - WC10,10/09/1986,M,F,01/01/2010,0,1,EM,Production,Manufacturing,01/01/2010,13.45,1
+55,3,Production Supervisor - WC50,01/04/1956,M,M,08/02/2008,0,1,EM,Production,Manufacturing,08/02/2008,25,2
+56,4,Production Technician - WC50,06/07/1988,M,F,05/02/2009,0,1,EM,Production,Manufacturing,05/02/2009,11,1
+57,4,Production Technician - WC50,24/07/1971,S,M,23/02/2009,0,1,EM,Production,Manufacturing,23/02/2009,11,1
+58,4,Production Technician - WC50,30/05/1986,M,M,05/12/2008,0,1,EM,Production,Manufacturing,05/12/2008,11,1
+59,4,Production Technician - WC50,16/08/1979,S,M,24/12/2008,0,1,EM,Production,Manufacturing,24/12/2008,11,1
+60,4,Production Technician - WC50,03/02/1977,S,M,11/01/2009,0,1,EM,Production,Manufacturing,11/01/2009,11,1
+61,4,Production Technician - WC50,09/08/1989,S,F,18/01/2009,0,1,EM,Production,Manufacturing,18/01/2009,11,1
+62,3,Production Supervisor - WC60,07/08/1956,M,M,17/03/2008,0,1,EM,Production,Manufacturing,17/03/2008,25,2
+63,4,Production Technician - WC60,30/01/1955,S,M,29/01/2010,0,1,EM,Production,Manufacturing,29/01/2010,12.45,1
+64,4,Production Technician - WC60,05/09/1973,S,M,23/02/2010,0,1,EM,Production,Manufacturing,23/02/2010,12.45,1
+65,4,Production Technician - WC60,28/04/1970,M,M,23/02/2010,0,1,EM,Production,Manufacturing,23/02/2010,12.45,1
+66,4,Production Technician - WC60,07/03/1970,S,M,22/12/2009,0,1,EM,Production,Manufacturing,22/12/2009,12.45,1
+67,4,Production Technician - WC60,11/02/1976,S,M,05/03/2009,0,1,EM,Production,Manufacturing,05/03/2009,12.45,1
+68,4,Production Technician - WC60,02/09/1971,S,M,03/12/2009,0,1,EM,Production,Manufacturing,03/12/2009,12.45,1
+69,4,Production Technician - WC60,06/04/1991,S,M,15/02/2009,0,1,EM,Production,Manufacturing,15/02/2009,12.45,1
+70,4,Production Technician - WC60,29/12/1984,M,M,15/12/2008,0,1,EM,Production,Manufacturing,15/12/2008,12.45,1
+71,3,Production Supervisor - WC30,29/01/1989,S,M,15/02/2009,0,1,EM,Production,Manufacturing,15/02/2009,25,2
+72,4,Production Technician - WC30,14/05/1977,M,M,01/12/2008,0,1,EM,Production,Manufacturing,01/12/2008,9.5,1
+73,4,Production Technician - WC30,19/10/1983,M,F,19/12/2008,0,1,EM,Production,Manufacturing,19/12/2008,9.5,1
+74,4,Production Technician - WC30,06/11/1989,S,M,07/01/2009,0,1,EM,Production,Manufacturing,07/01/2009,9.5,1
+75,4,Production Technician - WC30,27/06/1982,S,M,26/01/2009,0,1,EM,Production,Manufacturing,26/01/2009,9.5,1
+76,4,Production Technician - WC30,17/10/1988,M,F,12/02/2009,0,1,EM,Production,Manufacturing,12/02/2009,9.5,1
+77,4,Production Technician - WC30,13/05/1983,M,F,03/03/2009,0,1,EM,Production,Manufacturing,03/03/2009,9.5,1
+78,3,Production Supervisor - WC40,27/08/1987,M,M,15/12/2008,0,1,EM,Production,Manufacturing,15/12/2008,25,2
+79,4,Production Technician - WC40,08/12/1966,M,M,24/01/2010,0,1,EM,Production,Manufacturing,24/01/2010,15,1
+80,4,Production Technician - WC40,03/12/1970,S,M,17/01/2010,0,1,EM,Production,Manufacturing,17/01/2010,15,1
+81,4,Production Technician - WC40,09/03/1971,S,M,29/12/2009,0,1,EM,Production,Manufacturing,29/12/2009,15,1
+82,4,Production Technician - WC40,29/08/1973,S,M,03/03/2010,0,1,EM,Production,Manufacturing,03/03/2010,15,1
+83,4,Production Technician - WC40,23/12/1973,M,M,12/02/2010,0,1,EM,Production,Manufacturing,12/02/2010,15,1
+84,4,Production Technician - WC40,02/03/1952,M,M,05/02/2010,0,1,EM,Production,Manufacturing,05/02/2010,15,1
+85,4,Production Technician - WC40,23/12/1970,S,M,11/12/2009,0,1,EM,Production,Manufacturing,11/12/2009,15,1
+86,4,Production Technician - WC40,13/06/1972,M,M,05/01/2009,0,1,EM,Production,Manufacturing,05/01/2009,15,1
+87,3,Production Supervisor - WC10,11/04/1984,M,M,22/12/2008,0,1,EM,Production,Manufacturing,22/12/2008,25,2
+88,4,Production Technician - WC10,17/12/1966,S,F,18/12/2009,0,1,EM,Production,Manufacturing,18/12/2009,13.45,1
+89,4,Production Technician - WC10,10/09/1986,S,M,01/02/2010,0,1,EM,Production,Manufacturing,01/02/2010,13.45,1
+90,4,Production Technician - WC10,07/09/1986,S,F,20/02/2010,0,1,EM,Production,Manufacturing,20/02/2010,13.45,1
+91,4,Production Technician - WC10,13/09/1986,S,F,12/01/2010,0,1,EM,Production,Manufacturing,12/01/2010,13.45,1
+92,4,Production Technician - WC10,01/10/1986,M,M,10/03/2010,0,1,EM,Production,Manufacturing,10/03/2010,13.45,1
+93,3,Production Supervisor - WC50,28/04/1980,S,M,27/12/2008,0,1,EM,Production,Manufacturing,27/12/2008,25,2
+94,4,Production Technician - WC50,25/11/1972,M,M,12/12/2008,0,1,EM,Production,Manufacturing,12/12/2008,11,1
+95,4,Production Technician - WC50,08/09/1986,M,M,19/12/2008,0,1,EM,Production,Manufacturing,19/12/2008,11,1
+96,4,Production Technician - WC50,25/01/1990,M,F,02/03/2009,0,1,EM,Production,Manufacturing,02/03/2009,11,1
+97,4,Production Technician - WC50,21/03/1986,S,M,10/02/2009,0,1,EM,Production,Manufacturing,10/02/2009,11,1
+98,4,Production Technician - WC50,26/06/1978,M,M,11/02/2009,0,1,EM,Production,Manufacturing,11/02/2009,11,1
+99,4,Production Technician - WC50,29/03/1979,S,M,06/01/2009,0,1,EM,Production,Manufacturing,06/01/2009,11,1
+100,4,Production Technician - WC50,24/01/1973,M,M,12/01/2009,0,1,EM,Production,Manufacturing,12/01/2009,11,1
+101,4,Production Technician - WC50,30/08/1971,M,M,25/01/2009,0,1,EM,Production,Manufacturing,25/01/2009,11,1
+102,3,Production Supervisor - WC10,26/10/1983,S,M,03/12/2008,0,1,EM,Production,Manufacturing,03/12/2008,25,2
+103,4,Production Technician - WC10,22/09/1986,S,M,06/12/2009,0,1,EM,Production,Manufacturing,06/12/2009,13.45,1
+104,4,Production Technician - WC10,19/09/1986,M,F,25/12/2009,0,1,EM,Production,Manufacturing,25/12/2009,13.45,1
+105,4,Production Technician - WC10,19/09/1986,S,M,25/12/2009,0,1,EM,Production,Manufacturing,25/12/2009,13.45,1
+106,4,Production Technician - WC10,28/09/1986,S,M,27/02/2010,0,1,EM,Production,Manufacturing,27/02/2010,13.45,1
+107,4,Production Technician - WC10,01/10/1986,M,M,08/02/2010,0,1,EM,Production,Manufacturing,08/02/2010,13.45,1
+108,3,Production Supervisor - WC50,05/02/1989,S,M,08/12/2008,0,1,EM,Production,Manufacturing,08/12/2008,25,2
+109,4,Production Technician - WC50,26/01/1978,M,F,07/12/2008,0,1,EM,Production,Manufacturing,07/12/2008,11,1
+110,4,Production Technician - WC50,06/07/1979,S,M,14/12/2008,0,1,EM,Production,Manufacturing,14/12/2008,11,1
+111,4,Production Technician - WC50,25/02/1978,S,M,17/12/2008,0,1,EM,Production,Manufacturing,17/12/2008,11,1
+112,4,Production Technician - WC50,31/05/1978,S,M,01/01/2009,0,1,EM,Production,Manufacturing,01/01/2009,11,1
+113,4,Production Technician - WC50,17/07/1987,M,F,25/12/2008,0,1,EM,Production,Manufacturing,25/12/2008,11,1
+114,4,Production Technician - WC50,07/05/1978,M,M,13/01/2009,0,1,EM,Production,Manufacturing,13/01/2009,11,1
+115,4,Production Technician - WC50,31/05/1991,S,F,20/01/2009,0,1,EM,Production,Manufacturing,20/01/2009,11,1
+116,4,Production Technician - WC50,03/05/1974,S,M,31/01/2009,0,1,EM,Production,Manufacturing,31/01/2009,11,1
+117,4,Production Technician - WC50,04/08/1990,M,M,18/02/2009,0,1,EM,Production,Manufacturing,18/02/2009,11,1
+118,4,Production Technician - WC50,13/06/1971,M,M,13/02/2009,0,1,EM,Production,Manufacturing,13/02/2009,11,1
+119,4,Production Technician - WC50,15/06/1989,S,M,25/02/2009,0,1,EM,Production,Manufacturing,25/02/2009,11,1
+120,4,Production Technician - WC50,06/06/1987,S,F,04/03/2009,0,1,EM,Production,Manufacturing,04/03/2009,11,1
+121,3,Shipping and Receiving Supervisor,09/09/1972,S,M,02/01/2009,1,1,EM,Shipping and Receiving,Inventory Management,02/01/2009,19.2308,2
+122,4,Stocker,17/02/1978,S,F,07/12/2008,0,1,EM,Shipping and Receiving,Inventory Management,07/12/2008,9,1
+123,4,Shipping and Receiving Clerk,18/03/1977,M,M,07/12/2008,0,1,EM,Shipping and Receiving,Inventory Management,07/12/2008,9.5,2
+124,4,Stocker,30/04/1984,S,F,26/12/2008,0,1,EM,Shipping and Receiving,Inventory Management,26/12/2008,9,1
+125,4,Shipping and Receiving Clerk,11/11/1973,M,M,20/01/2009,0,1,EM,Shipping and Receiving,Inventory Management,20/01/2009,9.5,2
+126,4,Stocker,04/05/1985,M,M,26/02/2009,0,1,EM,Shipping and Receiving,Inventory Management,26/02/2009,9,1
+127,3,Production Supervisor - WC40,02/07/1983,S,M,03/01/2009,0,1,EM,Production,Manufacturing,03/01/2009,25,2
+128,4,Production Technician - WC40,13/11/1980,S,M,04/12/2008,0,1,EM,Production,Manufacturing,04/12/2008,15,1
+129,4,Production Technician - WC40,16/05/1988,S,M,22/12/2008,0,1,EM,Production,Manufacturing,22/12/2008,15,1
+130,4,Production Technician - WC40,04/08/1973,S,M,13/02/2009,0,1,EM,Production,Manufacturing,13/02/2009,15,1
+131,4,Production Technician - WC40,07/10/1990,S,M,15/02/2009,0,1,EM,Production,Manufacturing,15/02/2009,15,1
+132,4,Production Technician - WC40,09/04/1986,M,F,22/02/2009,0,1,EM,Production,Manufacturing,22/02/2009,15,1
+133,4,Production Technician - WC40,04/01/1991,S,M,10/01/2009,0,1,EM,Production,Manufacturing,10/01/2009,15,1
+134,3,Production Supervisor - WC20,19/01/1985,M,M,14/01/2009,0,1,EM,Production,Manufacturing,14/01/2009,25,2
+135,4,Production Technician - WC20,03/01/1982,M,M,04/12/2008,0,1,EM,Production,Manufacturing,04/12/2008,14,1
+136,4,Production Technician - WC20,12/11/1970,M,M,11/12/2009,0,1,EM,Production,Manufacturing,11/12/2009,14,1
+137,4,Production Technician - WC20,05/09/1974,S,F,23/02/2009,0,1,EM,Production,Manufacturing,23/02/2009,14,1
+138,4,Production Technician - WC20,22/11/1987,M,F,04/02/2009,0,1,EM,Production,Manufacturing,04/02/2009,14,1
+139,4,Production Technician - WC20,23/10/1971,S,M,06/01/2010,0,1,EM,Production,Manufacturing,06/01/2010,14,1
+140,4,Production Technician - WC20,30/04/1953,M,M,22/01/2010,0,1,EM,Production,Manufacturing,22/01/2010,14,1
+141,4,Production Technician - WC20,10/09/1974,M,M,24/01/2010,0,1,EM,Production,Manufacturing,24/01/2010,14,1
+142,4,Production Technician - WC20,04/04/1970,S,F,04/03/2010,0,1,EM,Production,Manufacturing,04/03/2010,14,1
+143,4,Production Technician - WC20,05/09/1971,S,M,13/02/2010,0,1,EM,Production,Manufacturing,13/02/2010,14,1
+144,4,Production Technician - WC20,04/11/1990,M,M,17/01/2009,0,1,EM,Production,Manufacturing,17/01/2009,14,1
+145,3,Production Supervisor - WC30,18/08/1981,S,F,27/01/2009,0,1,EM,Production,Manufacturing,27/01/2009,25,2
+146,4,Production Technician - WC30,25/06/1989,S,M,07/12/2008,0,1,EM,Production,Manufacturing,07/12/2008,9.5,1
+147,4,Production Technician - WC30,05/11/1975,M,F,26/12/2008,0,1,EM,Production,Manufacturing,26/12/2008,9.5,1
+148,4,Production Technician - WC30,07/12/1988,S,M,14/01/2009,0,1,EM,Production,Manufacturing,14/01/2009,9.5,1
+149,4,Production Technician - WC30,20/10/1983,M,M,31/01/2009,0,1,EM,Production,Manufacturing,31/01/2009,9.5,1
+150,4,Production Technician - WC30,18/09/1982,M,M,26/02/2009,0,1,EM,Production,Manufacturing,26/02/2009,9.5,1
+151,4,Production Technician - WC30,13/09/1977,M,M,19/02/2009,0,1,EM,Production,Manufacturing,19/02/2009,9.5,1
+152,3,Production Supervisor - WC20,06/04/1977,M,M,01/02/2009,0,1,EM,Production,Manufacturing,01/02/2009,25,2
+153,4,Production Technician - WC20,16/10/1974,S,M,16/12/2008,0,1,EM,Production,Manufacturing,16/12/2008,14,1
+154,4,Production Technician - WC20,02/03/1967,M,M,23/12/2008,0,1,EM,Production,Manufacturing,23/12/2008,14,1
+155,4,Production Technician - WC20,15/02/1989,S,M,04/01/2009,0,1,EM,Production,Manufacturing,04/01/2009,14,1
+156,4,Production Technician - WC20,23/09/1974,M,M,11/01/2009,0,1,EM,Production,Manufacturing,11/01/2009,14,1
+157,4,Production Technician - WC20,05/10/1977,S,F,03/02/2009,0,1,EM,Production,Manufacturing,03/02/2009,14,1
+158,4,Production Technician - WC20,08/12/1986,S,F,07/03/2009,0,1,EM,Production,Manufacturing,07/03/2009,14,1
+159,4,Production Technician - WC20,08/12/1984,S,M,16/02/2009,0,1,EM,Production,Manufacturing,16/02/2009,14,1
+160,3,Production Supervisor - WC45,15/01/1977,M,M,21/01/2009,0,1,EM,Production,Manufacturing,21/01/2009,25,2
+161,4,Production Technician - WC45,06/02/1985,S,M,15/12/2008,0,1,EM,Production,Manufacturing,15/12/2008,10,1
+162,4,Production Technician - WC45,25/12/1980,S,F,03/01/2009,0,1,EM,Production,Manufacturing,03/01/2009,10,1
+163,4,Production Technician - WC45,13/04/1990,M,M,08/02/2009,0,1,EM,Production,Manufacturing,08/02/2009,10,1
+164,4,Production Technician - WC45,24/09/1988,S,M,06/03/2009,0,1,EM,Production,Manufacturing,06/03/2009,10,1
+165,4,Production Technician - WC45,16/12/1988,M,M,22/01/2009,0,1,EM,Production,Manufacturing,22/01/2009,10,1
+166,3,Production Supervisor - WC30,22/06/1983,S,M,21/02/2009,0,1,EM,Production,Manufacturing,21/02/2009,25,2
+167,4,Production Technician - WC30,02/11/1979,S,M,02/12/2008,0,1,EM,Production,Manufacturing,02/12/2008,9.5,1
+168,4,Production Technician - WC30,25/08/1984,S,M,07/12/2008,0,1,EM,Production,Manufacturing,07/12/2008,9.5,1
+169,4,Production Technician - WC30,02/04/1983,S,F,14/12/2008,0,1,EM,Production,Manufacturing,14/12/2008,9.5,1
+170,4,Production Technician - WC30,16/04/1977,M,M,21/12/2008,0,1,EM,Production,Manufacturing,21/12/2008,9.5,1
+171,4,Production Technician - WC30,03/08/1981,S,M,02/01/2009,0,1,EM,Production,Manufacturing,02/01/2009,9.5,1
+172,4,Production Technician - WC30,24/10/1986,M,M,16/01/2009,0,1,EM,Production,Manufacturing,16/01/2009,9.5,1
+173,4,Production Technician - WC30,15/07/1987,S,M,21/01/2009,0,1,EM,Production,Manufacturing,21/01/2009,9.5,1
+174,4,Production Technician - WC30,05/01/1986,S,M,27/01/2009,0,1,EM,Production,Manufacturing,27/01/2009,9.5,1
+175,4,Production Technician - WC30,08/01/1989,M,M,02/02/2009,0,1,EM,Production,Manufacturing,02/02/2009,9.5,1
+176,4,Production Technician - WC30,23/09/1985,M,M,14/02/2009,0,1,EM,Production,Manufacturing,14/02/2009,9.5,1
+177,4,Production Technician - WC30,11/02/1982,M,M,21/02/2009,0,1,EM,Production,Manufacturing,21/02/2009,9.5,1
+178,4,Production Technician - WC30,24/03/1982,S,M,03/03/2009,0,1,EM,Production,Manufacturing,03/03/2009,9.5,1
+179,4,Production Technician - WC30,15/11/1974,S,M,05/03/2009,0,1,EM,Production,Manufacturing,05/03/2009,9.5,1
+180,3,Production Supervisor - WC20,18/11/1984,S,F,20/02/2009,0,1,EM,Production,Manufacturing,20/02/2009,25,2
+181,4,Production Technician - WC20,17/11/1984,S,M,09/12/2008,0,1,EM,Production,Manufacturing,09/12/2008,14,1
+182,4,Production Technician - WC20,01/12/1986,S,M,28/12/2008,0,1,EM,Production,Manufacturing,28/12/2008,14,1
+183,4,Production Technician - WC20,02/07/1979,M,F,22/01/2009,0,1,EM,Production,Manufacturing,22/01/2009,14,1
+184,4,Production Technician - WC20,05/04/1986,M,M,09/02/2009,0,1,EM,Production,Manufacturing,09/02/2009,14,1
+185,4,Production Technician - WC20,21/12/1975,S,M,28/02/2009,0,1,EM,Production,Manufacturing,28/02/2009,14,1
+186,3,Production Supervisor - WC45,24/05/1990,S,M,08/02/2009,0,1,EM,Production,Manufacturing,08/02/2009,25,2
+187,4,Production Technician - WC45,15/04/1989,M,F,09/12/2008,0,1,EM,Production,Manufacturing,09/12/2008,10,1
+188,4,Production Technician - WC45,24/11/1985,M,M,27/12/2008,0,1,EM,Production,Manufacturing,27/12/2008,10,1
+189,4,Production Technician - WC45,24/07/1972,S,F,15/01/2009,0,1,EM,Production,Manufacturing,15/01/2009,10,1
+190,4,Production Technician - WC45,28/02/1985,S,M,02/02/2009,0,1,EM,Production,Manufacturing,02/02/2009,10,1
+191,4,Production Technician - WC45,14/03/1988,S,M,26/02/2009,0,1,EM,Production,Manufacturing,26/02/2009,10,1
+192,3,Production Supervisor - WC40,28/02/1983,M,F,05/03/2009,0,1,EM,Production,Manufacturing,05/03/2009,25,2
+193,4,Production Technician - WC40,05/12/1988,S,M,06/12/2008,0,1,EM,Production,Manufacturing,06/12/2008,15,1
+194,4,Production Technician - WC40,25/06/1989,S,M,12/12/2008,0,1,EM,Production,Manufacturing,12/12/2008,15,1
+195,4,Production Technician - WC40,25/12/1985,S,M,17/12/2008,0,1,EM,Production,Manufacturing,17/12/2008,15,1
+196,4,Production Technician - WC40,04/10/1980,M,M,24/12/2008,0,1,EM,Production,Manufacturing,24/12/2008,15,1
+197,4,Production Technician - WC40,04/10/1977,M,M,31/12/2008,0,1,EM,Production,Manufacturing,31/12/2008,15,1
+198,4,Production Technician - WC40,26/11/1988,M,F,04/01/2009,0,1,EM,Production,Manufacturing,04/01/2009,15,1
+199,4,Production Technician - WC40,10/02/1987,M,F,12/01/2009,0,1,EM,Production,Manufacturing,12/01/2009,15,1
+200,4,Production Technician - WC40,06/09/1987,M,M,17/01/2009,0,1,EM,Production,Manufacturing,17/01/2009,15,1
+201,4,Production Technician - WC40,10/02/1977,S,M,29/01/2009,0,1,EM,Production,Manufacturing,29/01/2009,15,1
+202,4,Production Technician - WC40,10/11/1989,S,M,05/02/2009,0,1,EM,Production,Manufacturing,05/02/2009,15,1
+203,4,Production Technician - WC40,28/05/1981,M,M,24/02/2009,0,1,EM,Production,Manufacturing,24/02/2009,15,1
+204,4,Production Technician - WC40,10/05/1988,M,M,08/03/2009,0,1,EM,Production,Manufacturing,08/03/2009,15,1
+205,3,Production Supervisor - WC45,18/07/1980,S,F,26/02/2009,0,1,EM,Production,Manufacturing,26/02/2009,25,2
+206,4,Production Technician - WC45,13/09/1962,S,M,02/12/2008,0,1,EM,Production,Manufacturing,02/12/2008,10,1
+207,4,Production Technician - WC45,18/10/1970,S,M,02/12/2008,0,1,EM,Production,Manufacturing,02/12/2008,10,1
+208,4,Production Technician - WC45,10/02/1987,M,M,08/01/2009,0,1,EM,Production,Manufacturing,08/01/2009,10,1
+209,4,Production Technician - WC45,01/11/1990,M,F,27/01/2009,0,1,EM,Production,Manufacturing,27/01/2009,10,1
+210,4,Production Technician - WC45,17/09/1969,S,F,20/02/2009,0,1,EM,Production,Manufacturing,20/02/2009,10,1
+211,2,Quality Assurance Manager,26/10/1977,S,M,28/02/2009,1,1,EM,Quality Assurance,Quality Assurance,28/02/2009,28.8462,2
+212,3,Quality Assurance Supervisor,18/03/1976,M,M,09/12/2008,1,1,EM,Quality Assurance,Quality Assurance,09/12/2008,21.6346,2
+213,4,Quality Assurance Technician,05/12/1966,M,M,23/02/2010,0,1,EM,Quality Assurance,Quality Assurance,23/02/2010,10.5769,2
+214,4,Quality Assurance Technician,28/03/1989,M,M,02/02/2009,0,1,EM,Quality Assurance,Quality Assurance,02/02/2009,10.5769,2
+215,4,Quality Assurance Technician,30/04/1986,S,M,15/01/2009,0,1,EM,Quality Assurance,Quality Assurance,15/01/2009,10.5769,2
+216,4,Quality Assurance Technician,06/03/1976,S,M,28/12/2008,0,1,EM,Quality Assurance,Quality Assurance,28/12/2008,10.5769,2
+217,3,Document Control Manager,30/01/1976,M,M,04/01/2009,0,1,EM,Document Control,Quality Assurance,04/01/2009,17.7885,2
+218,4,Control Specialist,28/04/1990,S,M,16/12/2008,0,1,EM,Document Control,Quality Assurance,16/12/2008,16.8269,2
+219,4,Document Control Assistant,12/03/1987,S,M,22/01/2009,0,1,EM,Document Control,Quality Assurance,22/01/2009,10.25,2
+220,4,Document Control Assistant,25/12/1975,M,F,09/02/2009,0,1,EM,Document Control,Quality Assurance,09/02/2009,10.25,2
+221,4,Control Specialist,26/05/1987,M,M,06/03/2009,0,1,EM,Document Control,Quality Assurance,06/03/2009,16.8269,2
+222,2,Master Scheduler,17/09/1968,S,M,12/12/2008,0,1,EM,Production Control,Manufacturing,12/12/2008,23.5577,2
+223,3,Scheduling Assistant,22/12/1987,M,M,26/01/2009,0,1,EM,Production Control,Manufacturing,26/01/2009,16,2
+224,3,Scheduling Assistant,06/11/1981,M,M,07/01/2009,0,1,EM,Production Control,Manufacturing,01/09/2011,16,2
+225,3,Scheduling Assistant,29/03/1984,M,M,13/02/2009,0,1,EM,Production Control,Manufacturing,13/02/2009,16,2
+226,3,Scheduling Assistant,11/08/1984,M,M,03/03/2009,0,1,EM,Production Control,Manufacturing,03/03/2009,16,2
+227,2,Facilities Manager,18/02/1971,M,M,02/12/2009,1,1,EM,Facilities and Maintenance,Executive General and Administration,02/12/2009,24.0385,2
+228,3,Maintenance Supervisor,18/01/1976,M,M,14/12/2008,1,1,EM,Facilities and Maintenance,Executive General and Administration,14/12/2008,20.4327,2
+229,4,Janitor,31/07/1970,M,F,16/02/2010,0,1,EM,Facilities and Maintenance,Executive General and Administration,16/02/2010,9.25,1
+230,4,Janitor,17/12/1971,M,M,05/03/2010,0,1,EM,Facilities and Maintenance,Executive General and Administration,05/03/2010,9.25,1
+231,4,Janitor,24/04/1954,M,F,07/03/2010,0,1,EM,Facilities and Maintenance,Executive General and Administration,07/03/2010,9.25,1
+232,4,Janitor,03/12/1970,S,M,27/01/2010,0,1,EM,Facilities and Maintenance,Executive General and Administration,27/01/2010,9.25,1
+233,3,Facilities Administrative Assistant,27/08/1971,M,M,21/12/2009,0,1,EM,Facilities and Maintenance,Executive General and Administration,21/12/2009,9.75,2
+234,1,Chief Financial Officer,06/01/1976,M,F,31/01/2009,1,1,EM,Executive,Executive General and Administration,14/11/2013,60.0962,2
+235,2,Human Resources Manager,11/02/1976,M,F,06/12/2008,1,1,EM,Human Resources,Executive General and Administration,06/12/2008,27.1394,2
+236,3,Human Resources Administrative Assistant,16/04/1976,S,M,25/02/2009,0,1,EM,Human Resources,Executive General and Administration,25/02/2009,13.9423,2
+237,3,Human Resources Administrative Assistant,17/04/1977,S,M,06/02/2009,0,1,EM,Human Resources,Executive General and Administration,06/02/2009,13.9423,2
+238,3,Recruiter,01/08/1984,S,M,01/01/2009,0,1,EM,Human Resources,Executive General and Administration,01/01/2009,18.2692,2
+239,3,Benefits Specialist,20/11/1984,M,F,25/12/2008,0,1,EM,Human Resources,Executive General and Administration,25/12/2008,16.5865,2
+240,3,Recruiter,18/07/1978,S,M,13/12/2008,0,1,EM,Human Resources,Executive General and Administration,13/12/2008,18.2692,2
+241,2,Accounts Manager,08/07/1983,M,M,30/01/2009,1,1,EM,Finance,Executive General and Administration,30/01/2009,34.7356,2
+242,3,Accounts Receivable Specialist,06/03/1976,M,F,18/12/2008,0,1,EM,Finance,Executive General and Administration,18/12/2008,19,2
+243,3,Accounts Receivable Specialist,23/02/1976,S,F,06/01/2009,0,1,EM,Finance,Executive General and Administration,06/01/2009,19,2
+244,3,Accounts Receivable Specialist,20/09/1984,S,M,24/01/2009,0,1,EM,Finance,Executive General and Administration,24/01/2009,19,2
+245,3,Accountant,04/01/1976,M,F,18/02/2009,1,1,EM,Finance,Executive General and Administration,18/02/2009,26.4423,2
+246,3,Accounts Payable Specialist,14/02/1977,M,M,11/02/2009,0,1,EM,Finance,Executive General and Administration,11/02/2009,19,2
+247,3,Accounts Payable Specialist,09/03/1979,M,F,01/03/2009,0,1,EM,Finance,Executive General and Administration,01/03/2009,19,2
+248,3,Accountant,01/07/1979,S,M,08/03/2009,1,1,EM,Finance,Executive General and Administration,08/03/2009,26.4423,2
+249,2,Finance Manager,11/10/1984,S,F,25/12/2008,1,1,EM,Finance,Executive General and Administration,25/12/2008,43.2692,2
+250,3,Purchasing Manager,10/02/1978,S,F,25/02/2011,1,1,EM,Purchasing,Inventory Management,15/07/2012,30,2
+251,4,Buyer,17/08/1984,S,M,10/02/2009,0,1,EM,Purchasing,Inventory Management,10/02/2009,18.2692,2
+252,4,Buyer,21/08/1974,M,M,28/02/2009,0,1,EM,Purchasing,Inventory Management,28/02/2009,18.2692,2
+253,4,Buyer,30/11/1970,M,F,17/12/2009,0,1,EM,Purchasing,Inventory Management,17/12/2009,18.2692,2
+254,4,Buyer,24/11/1970,M,M,04/01/2010,0,1,EM,Purchasing,Inventory Management,04/01/2010,18.2692,2
+255,4,Buyer,29/11/1966,M,M,11/01/2010,0,1,EM,Purchasing,Inventory Management,11/01/2010,18.2692,2
+256,4,Buyer,12/05/1952,M,M,23/01/2010,0,1,EM,Purchasing,Inventory Management,23/01/2010,18.2692,2
+257,4,Buyer,17/09/1972,S,M,27/01/2010,0,1,EM,Purchasing,Inventory Management,27/01/2010,18.2692,2
+258,4,Buyer,04/01/1971,S,F,31/01/2010,0,1,EM,Purchasing,Inventory Management,31/01/2010,18.2692,2
+259,4,Buyer,03/06/1973,M,M,09/03/2010,0,1,EM,Purchasing,Inventory Management,09/03/2010,18.2692,2
+260,4,Purchasing Assistant,29/01/1978,M,F,06/12/2010,0,1,EM,Purchasing,Inventory Management,06/12/2010,12.75,2
+261,4,Purchasing Assistant,17/01/1978,M,M,25/12/2010,0,1,EM,Purchasing,Inventory Management,25/12/2010,12.75,2
+262,2,Assistant to the Chief Financial Officer,21/06/1964,S,M,12/01/2009,0,1,EM,Finance,Executive General and Administration,12/01/2009,13.4615,2
+263,1,Information Services Manager,13/12/1975,S,F,11/12/2008,1,1,EM,Information Services,Executive General and Administration,11/12/2008,50.4808,2
+264,2,Network Manager,25/03/1984,S,F,04/02/2009,1,1,EM,Information Services,Executive General and Administration,04/02/2009,39.6635,2
+265,3,Network Administrator,27/03/1977,S,M,04/12/2008,0,1,EM,Information Services,Executive General and Administration,04/12/2008,32.4519,2
+266,3,Network Administrator,28/05/1980,S,M,23/02/2009,0,1,EM,Information Services,Executive General and Administration,23/02/2009,32.4519,2
+267,2,Application Specialist,19/05/1978,S,F,16/02/2009,1,1,EM,Information Services,Executive General and Administration,16/02/2009,27.4038,2
+268,2,Application Specialist,13/03/1988,S,M,03/02/2009,1,1,EM,Information Services,Executive General and Administration,03/02/2009,27.4038,2
+269,2,Application Specialist,26/05/1987,M,M,11/01/2009,1,1,EM,Information Services,Executive General and Administration,11/01/2009,27.4038,2
+270,2,Database Administrator,17/05/1975,S,M,17/01/2009,1,1,EM,Information Services,Executive General and Administration,17/01/2009,38.4615,2
+271,2,Database Administrator,06/01/1976,M,M,22/01/2009,1,1,EM,Information Services,Executive General and Administration,22/01/2009,38.4615,2
+272,2,Application Specialist,30/01/1985,M,F,23/12/2008,1,1,EM,Information Services,Executive General and Administration,23/12/2008,27.4038,2
+273,1,Vice President of Sales,06/06/1977,S,M,15/02/2011,1,1,EM,Sales,Sales and Marketing,15/02/2011,72.1154,2
+274,2,North American Sales Manager,17/10/1951,M,M,04/01/2011,1,1,SP,Sales,Sales and Marketing,04/01/2011,48.101,2
+275,3,Sales Representative,25/12/1968,S,M,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+276,3,Sales Representative,27/02/1980,M,F,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+277,3,Sales Representative,29/08/1962,S,F,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+278,3,Sales Representative,04/02/1975,M,M,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+279,3,Sales Representative,18/01/1974,M,M,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+280,3,Sales Representative,06/12/1974,S,F,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+281,3,Sales Representative,09/03/1968,M,M,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+282,3,Sales Representative,11/12/1963,M,M,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+283,3,Sales Representative,11/02/1974,S,M,31/05/2011,1,1,SP,Sales,Sales and Marketing,31/05/2011,23.0769,2
+284,3,Sales Representative,05/01/1978,M,M,30/09/2012,1,1,SP,Sales,Sales and Marketing,30/09/2012,23.0769,2
+285,2,Pacific Sales Manager,11/01/1975,M,M,14/03/2013,1,1,SP,Sales,Sales and Marketing,14/03/2013,48.101,2
+286,3,Sales Representative,14/02/1977,S,F,30/05/2013,1,1,SP,Sales,Sales and Marketing,30/05/2013,23.0769,2
+287,2,European Sales Manager,20/09/1957,M,F,16/04/2012,1,1,SP,Sales,Sales and Marketing,16/04/2012,48.101,2
+288,3,Sales Representative,09/07/1975,S,F,30/05/2013,1,1,SP,Sales,Sales and Marketing,30/05/2013,23.0769,2
+289,3,Sales Representative,17/03/1968,M,F,30/05/2012,1,1,SP,Sales,Sales and Marketing,30/05/2012,23.0769,2
+290,3,Sales Representative,30/09/1975,S,M,30/05/2012,1,1,SP,Sales,Sales and Marketing,30/05/2012,23.0769,2
